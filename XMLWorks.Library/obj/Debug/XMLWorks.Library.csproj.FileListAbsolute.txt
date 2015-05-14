@@ -1,0 +1,5 @@
+c:\users\jeremy\documents\visual studio 2013\Projects\XMLWorks.Library\XMLWorks.Library\bin\Debug\XMLWorks.Library.dll
+c:\users\jeremy\documents\visual studio 2013\Projects\XMLWorks.Library\XMLWorks.Library\bin\Debug\XMLWorks.Library.pdb
+c:\users\jeremy\documents\visual studio 2013\Projects\XMLWorks.Library\XMLWorks.Library\obj\Debug\XMLWorks.Library.csprojResolveAssemblyReference.cache
+c:\users\jeremy\documents\visual studio 2013\Projects\XMLWorks.Library\XMLWorks.Library\obj\Debug\XMLWorks.Library.dll
+c:\users\jeremy\documents\visual studio 2013\Projects\XMLWorks.Library\XMLWorks.Library\obj\Debug\XMLWorks.Library.pdb

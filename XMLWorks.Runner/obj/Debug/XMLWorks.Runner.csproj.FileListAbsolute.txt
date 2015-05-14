@@ -1,0 +1,8 @@
+c:\users\jeremy\documents\visual studio 2013\Projects\XMLWorks.Library\XMLWorks.Runner\bin\Debug\XMLWorks.Runner.exe.config
+c:\users\jeremy\documents\visual studio 2013\Projects\XMLWorks.Library\XMLWorks.Runner\bin\Debug\XMLWorks.Runner.exe
+c:\users\jeremy\documents\visual studio 2013\Projects\XMLWorks.Library\XMLWorks.Runner\bin\Debug\XMLWorks.Runner.pdb
+c:\users\jeremy\documents\visual studio 2013\Projects\XMLWorks.Library\XMLWorks.Runner\bin\Debug\XMLWorks.Library.dll
+c:\users\jeremy\documents\visual studio 2013\Projects\XMLWorks.Library\XMLWorks.Runner\bin\Debug\XMLWorks.Library.pdb
+c:\users\jeremy\documents\visual studio 2013\Projects\XMLWorks.Library\XMLWorks.Runner\obj\Debug\XMLWorks.Runner.csprojResolveAssemblyReference.cache
+c:\users\jeremy\documents\visual studio 2013\Projects\XMLWorks.Library\XMLWorks.Runner\obj\Debug\XMLWorks.Runner.exe
+c:\users\jeremy\documents\visual studio 2013\Projects\XMLWorks.Library\XMLWorks.Runner\obj\Debug\XMLWorks.Runner.pdb
